@@ -62,7 +62,7 @@
 //! [Check out a live demo](https://jetli.github.io/yew-hooks/)
 
 mod hooks;
-pub(crate) mod web_sys_ext;
+pub mod web_sys_ext;
 
 pub use hooks::*;
 
